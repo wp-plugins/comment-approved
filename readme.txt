@@ -26,6 +26,12 @@ Icon by Max Steenbergen / maxsteenbergen.com
 
 == Changelog ==
 
+= 1.3.1 =
+* Option added for users to opt-in on notifications
+
+= 1.3 =
+* Added option to change the subject (thanks Karl)
+
 = 1.2.1 =
 * Added plugin icons. Credits for Max Steenbergen / maxsteenbergen.com
 
