@@ -3,8 +3,8 @@ Contributors: nielsvanrenselaar
 Donate link: 
 Tags: comment, approved, notifcation, message, approval
 Requires at least: 3.0.0
-Tested up to: 4.0
-Stable tag: 1.2.1
+Tested up to: 4.2.1
+Stable tag: 1.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -25,6 +25,13 @@ Icon by Max Steenbergen / maxsteenbergen.com
 1. The settings screen
 
 == Changelog ==
+
+= 1.3.2 =
+* Added option to change the e-mail from headers
+* Added option for the default state of the checkbox
+* Better translation support
+* WordPress 4.2 support
+* Minor bugfixes
 
 = 1.3.1 =
 * Option added for users to opt-in on notifications
