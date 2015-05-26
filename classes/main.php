@@ -5,7 +5,7 @@
  * Description: Main functions
  * Company: Media-Enzo
  * @author Niels van Renselaar
- * @version 1.3.2
+ * @version 1.3.2.1
  */
  
 class Comment_Approved {
