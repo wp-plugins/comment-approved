@@ -26,6 +26,10 @@ Icon by Max Steenbergen / maxsteenbergen.com
 
 == Changelog ==
 
+= 1.3.2.1 =
+* Typo fix
+* Compatible with WordPress 4.2.2
+
 = 1.3.2 =
 * Added option to change the e-mail from headers
 * Added option for the default state of the checkbox

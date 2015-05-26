@@ -250,7 +250,7 @@ class Comment_Approved {
 		
 		$checked = $default ? "checked='checked'" : "";
 		
-		$fields['notify_me'] = " <p class='comment-form-notify-me'> <input type='checkbox' ".$checked." name='comment-approved_notify-me' value='yes' /> ".__("Notify me by email when my comments gets approved.")."</p>";
+		$fields['notify_me'] = " <p class='comment-form-notify-me'> <input type='checkbox' ".$checked." name='comment-approved_notify-me' value='yes' /> ".__("Notify me by email when my comment gets approved.", "ca")."</p>";
 		
 		return $fields;
 		
